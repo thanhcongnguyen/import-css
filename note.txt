@@ -1,0 +1,4 @@
+val-loader 0.5.0
+--------------
+import bootstrap:
+https://www.npmjs.com/package/reactstrap#adding-bootstrap
